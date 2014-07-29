@@ -8,7 +8,7 @@ package main
 import "fmt"
 
 func main() {
-	const n int64 = 13195
+	const n int64 = 600851475143
 	var newnum int64 = n
 	var largestFact int64 = 0
 
